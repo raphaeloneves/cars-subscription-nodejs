@@ -1,0 +1,24 @@
+{
+  "name": "cars-subscription-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaeloneves/cars-subscription-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "react"
+  ],
+  "author": "Raphael Neves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaeloneves/cars-subscription-nodejs/issues"
+  },
+  "homepage": "https://github.com/raphaeloneves/cars-subscription-nodejs#readme"
+}
