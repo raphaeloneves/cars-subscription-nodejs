@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/raphaeloneves/cars-subscription-nodejs#readme",
   "devDependencies": {
+    "@types/express": "^4.17.12",
+    "@types/mongoose": "^5.11.97",
+    "@types/node": "^15.12.2",
     "env-cmd": "^10.1.0",
     "nodemon": "^2.0.7",
     "ts-node": "^10.0.0",
